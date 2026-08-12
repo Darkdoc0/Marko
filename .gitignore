@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+market_data.db
+.vscode/
+.idea/
+
+Market_Data_Pipeline_Study_Guide.pdf
+
+Market_Data_Pipeline_Study_Guide.html
+
+dashboard.html
